@@ -1,3 +1,5 @@
+# Sybil Detection
+
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -13,6 +15,8 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+
+This repository contains a SybilEdge algorithm for detect sybil account in Facebook. The algorithm is described in the paper [Friend or Faux: Graph-Based Early Detection of Fake accounts on Social Networks](https://arxiv.org/abs/2004.04834).
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
