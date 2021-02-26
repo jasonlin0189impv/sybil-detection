@@ -9,11 +9,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## About this
 This notebook contains a SybilEdge algorithm for detect sybil account in Facebook. The algorithm is described in \[1\].
@@ -36,31 +31,13 @@ More detail in \[1\]
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
 <!-- CONTACT -->
 ## Contact
 
 Cheng-Hsin Lin - chenshin2475@gmail.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
 
 
 <!-- REFERENCE -->
 ## Reference
 \[1\] [Friend or Faux: Graph-Based Early Detection of Fake accounts on Social Networks](https://arxiv.org/abs/2004.04834)
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/jasonlin0189impv/sybil_detection.svg?style=for-the-badge
-[forks-url]: https://github.com/jasonlin0189impv/sybil_detection/network/members
-[stars-shield]: https://img.shields.io/github/stars/jasonlin0189impv/sybil_detection.svg?style=for-the-badge
-[stars-url]: https://github.com/jasonlin0189impv/sybil_detection/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jasonlin0189impv/sybil_detection.svg?style=for-the-badge
-[issues-url]: https://github.com/jasonlin0189impv/sybil_detection/issues
-[license-shield]: https://img.shields.io/github/license/jasonlin0189impv/sybil_detection.svg?style=for-the-badge
-[license-url]: https://github.com/jasonlin0189impv/sybil_detection/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/ch-lin-0226/
-[product-screenshot]: images/screenshot.png
