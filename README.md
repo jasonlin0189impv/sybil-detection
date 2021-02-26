@@ -17,7 +17,7 @@ It's a practice for implement algorithm from the paper, I just test it on a smal
 
 ## Sybil Equation
 Follow from two rules, 1. User's selection of target, 2. Targets' response, to detect whether the new user is sybil or not.
-
+![This is the caption\label{mylabel}](/fig/rules.png){width=20%}
 
 More detail in \[1\]
 
