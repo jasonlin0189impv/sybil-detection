@@ -15,13 +15,13 @@ This notebook contains a SybilEdge algorithm for detect sybil account in Faceboo
 
 It's a practice for implement algorithm from the paper, I just test it on a small network which generate by myself. If you see any mistake in ```.py``` file, feel free to tell me :).
 
+
 ## Sybil Equation
 Follow from two rules, 1. User's selection of target, 2. Targets' response, to detect whether the new user is sybil or not.
+
 <img src="/fig/rules.png" alt="drawing" width="60%"/>
-More detail in \[1\]
 
-
-
+More detail in reference\[1\]
 
 
 <!-- LICENSE -->
