@@ -16,11 +16,17 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## About this
-This notebook contains a SybilEdge algorithm for detect sybil account in Facebook. The algorithm is described in the paper [Friend or Faux: Graph-Based Early Detection of Fake accounts on Social Networks](https://arxiv.org/abs/2004.04834).
+This notebook contains a SybilEdge algorithm for detect sybil account in Facebook. The algorithm is described in \[1\].
 
 It's a practice for implement algorithm from the paper, I just test it on a small network which generate by myself. If you see any mistake in ```.py``` file, feel free to tell me :).
 
-## Algorithm
+## Sybil Equation
+Follow from two rules, 1. User's selection of target, 2. Targets' response, to detect whether the new user is sybil or not.
+
+
+More detail in \[1\]
+
+
 
 
 
@@ -42,7 +48,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- REFERENCE -->
 ## Reference
-* Friend or Faux: Graph-Based Early Detection of Fake accounts on Social Networks
+\[1\] [Friend or Faux: Graph-Based Early Detection of Fake accounts on Social Networks](https://arxiv.org/abs/2004.04834)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
