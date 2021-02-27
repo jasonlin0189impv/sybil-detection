@@ -11,7 +11,7 @@
 
 
 ## About this
-This notebook contains a SybilEdge algorithm for detect sybil account in Facebook. The algorithm is described in \[1\].
+SybilEdge algorithm for fake (sybil) account detection. More detail is described in reference \[1\].
 
 It's a practice for implement algorithm from the paper, I just test it on a small network which generate by myself. If you see any mistake in ```.py``` file, feel free to tell me :).
 
