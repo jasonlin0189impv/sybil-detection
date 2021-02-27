@@ -47,7 +47,7 @@ Cheng-Hsin Lin - chenshin2475@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/jasonlin0189impv/sybil_detection.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github.com/forks/jasonlin0189impv/sybil_detection.svg?style=for-the-badge
 [forks-url]: https://github.com/jasonlin0189impv/sybil_detection/network/members
 [stars-shield]: https://img.shields.io/github/stars/jasonlin0189impv/sybil_detection.svg?style=for-the-badge
 [stars-url]: https://github.com/jasonlin0189impv/sybil_detection/stargazers
