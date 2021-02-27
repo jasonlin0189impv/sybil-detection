@@ -8,11 +8,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 ## About this
@@ -37,7 +32,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Cheng-Hsin Lin - chenshin2475@gmail.com
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- REFERENCE -->
@@ -47,14 +42,6 @@ Cheng-Hsin Lin - chenshin2475@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/jasonlin0189impv/sybil-detection.svg?style=for-the-badge
-[forks-url]: https://github.com/jasonlin0189impv/sybil-detection/network/members
-[stars-shield]: https://img.shields.io/github/stars/jasonlin0189impv/sybil-detection.svg?style=for-the-badge
-[stars-url]: https://github.com/jasonlin0189impv/sybil-detection/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jasonlin0189impv/sybil-detection.svg?style=for-the-badge
-[issues-url]: https://github.com/jasonlin0189impv/sybil-detection/issues
-[license-shield]: https://img.shields.io/github/license/jasonlin0189impv/sybil-detection.svg?style=for-the-badge
-[license-url]: https://github.com/jasonlin0189impv/sybil-detection/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ch-lin-0226/
 
