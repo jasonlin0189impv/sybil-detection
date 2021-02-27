@@ -8,6 +8,11 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 ## About this
@@ -33,7 +38,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Cheng-Hsin Lin - chenshin2475@gmail.com
+Cheng-Hsin Lin - chenshin2475@gmail.com - [LinkedIn](https://www.linkedin.com/in/ch-lin-0226/)
+LinkedIn - 
 
 
 <!-- REFERENCE -->
