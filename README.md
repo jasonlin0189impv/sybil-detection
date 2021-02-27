@@ -34,7 +34,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Cheng-Hsin Lin - chenshin2475@gmail.com - [LinkedIn](https://www.linkedin.com/in/ch-lin-0226/)
-LinkedIn - 
 
 
 <!-- REFERENCE -->
