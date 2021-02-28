@@ -1,4 +1,4 @@
-# Sybil Detection
+# Sybil Detection: Early detection of fake accounts on social networks
 
 <!-- PROJECT SHIELDS -->
 <!--
